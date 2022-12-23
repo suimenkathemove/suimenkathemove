@@ -7,6 +7,7 @@
     - [Rust](#rust)
       - [Axum](#axum)
     - [TypeScript](#typescript)
+    - [Frontend](#frontend)
 
 ## My Repositories
 
@@ -32,3 +33,7 @@
 
 - <https://github.com/suimenkathemove/typescript-modules>
 - <https://github.com/suimenkathemove/typescript-template>
+
+### Frontend
+
+- <https://github.com/suimenkathemove/frontend-modules>

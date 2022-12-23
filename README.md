@@ -5,6 +5,7 @@
     - [Resume](#resume)
     - [Articles](#articles)
     - [Dotfiles](#dotfiles)
+    - [Algorithm](#algorithm)
     - [Rust](#rust)
       - [Axum](#axum)
     - [TypeScript](#typescript)
@@ -27,6 +28,10 @@
 ### Dotfiles
 
 <https://github.com/suimenkathemove/dotfiles>
+
+### Algorithm
+
+- <https://github.com/suimenkathemove/atcoder_rust>
 
 ### Rust
 

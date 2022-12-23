@@ -2,15 +2,15 @@
 
 - [suimenkathemove](#suimenkathemove)
   - [My Repositories](#my-repositories)
-    - [articles](#articles)
-    - [dotfiles](#dotfiles)
+    - [Articles](#articles)
+    - [Dotfiles](#dotfiles)
 
 ## My Repositories
 
-### articles
+### Articles
 
 <https://github.com/suimenkathemove/articles>
 
-### dotfiles
+### Dotfiles
 
 <https://github.com/suimenkathemove/dotfiles>

@@ -15,6 +15,7 @@
     - [Monorepo](#monorepo)
     - [Docker](#docker)
     - [CI](#ci)
+    - [AWS](#aws)
 
 ## My Repositories
 
@@ -73,3 +74,7 @@
 ### CI
 
 - <https://github.com/suimenkathemove/github-actions-sandbox>
+
+### AWS
+
+- <https://github.com/suimenkathemove/aws-lambda>

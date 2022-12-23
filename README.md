@@ -10,6 +10,7 @@
     - [TypeScript](#typescript)
     - [Frontend](#frontend)
     - [React.js](#reactjs)
+    - [Monorepo](#monorepo)
 
 ## My Repositories
 
@@ -48,3 +49,7 @@
 
 - <https://github.com/suimenkathemove/react-template>
 - <https://github.com/suimenkathemove/react-sandbox>
+
+### Monorepo
+
+- <https://github.com/suimenkathemove/slack-clone>

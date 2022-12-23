@@ -6,6 +6,7 @@
     - [Dotfiles](#dotfiles)
     - [Rust](#rust)
       - [Axum](#axum)
+    - [TypeScript](#typescript)
 
 ## My Repositories
 
@@ -26,3 +27,8 @@
 #### Axum
 
 - <https://github.com/suimenkathemove/axum_examples>
+
+### TypeScript
+
+- <https://github.com/suimenkathemove/typescript-modules>
+- <https://github.com/suimenkathemove/typescript-template>

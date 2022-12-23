@@ -2,6 +2,7 @@
 
 - [suimenkathemove](#suimenkathemove)
   - [My Repositories](#my-repositories)
+    - [Resume](#resume)
     - [Articles](#articles)
     - [Dotfiles](#dotfiles)
     - [Rust](#rust)
@@ -11,6 +12,10 @@
     - [React.js](#reactjs)
 
 ## My Repositories
+
+### Resume
+
+<https://github.com/suimenkathemove/resume>
 
 ### Articles
 

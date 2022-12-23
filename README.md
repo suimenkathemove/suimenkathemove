@@ -5,6 +5,7 @@
     - [Articles](#articles)
     - [Dotfiles](#dotfiles)
     - [Rust](#rust)
+      - [Axum](#axum)
 
 ## My Repositories
 
@@ -21,3 +22,7 @@
 - <https://github.com/suimenkathemove/rust_template>
 - <https://github.com/suimenkathemove/rust-sandbox>
 - <https://github.com/suimenkathemove/rust_sandbox>
+
+#### Axum
+
+- <https://github.com/suimenkathemove/axum_examples>

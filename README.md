@@ -41,7 +41,7 @@
 
 #### Axum
 
-- <https://github.com/suimenkathemove/axum_examples>
+- <https://github.com/suimenkathemove/axum_sandbox>
 
 ### TypeScript
 
@@ -66,7 +66,7 @@
 
 ### Docker
 
-- <https://github.com/suimenkathemove/docker_examples>
+- <https://github.com/suimenkathemove/docker-sandbox>
 
 ### CI
 

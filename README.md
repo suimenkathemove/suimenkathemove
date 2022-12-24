@@ -36,7 +36,6 @@
 
 ### Rust
 
-- <https://github.com/suimenkathemove/rust_template>
 - <https://github.com/suimenkathemove/rust-sandbox>
 - <https://github.com/suimenkathemove/rust_sandbox>
 
@@ -47,7 +46,7 @@
 ### TypeScript
 
 - <https://github.com/suimenkathemove/typescript-modules>
-- <https://github.com/suimenkathemove/typescript-template>
+- <https://github.com/suimenkathemove/typescript-sandbox>
 
 ### Frontend
 
@@ -55,7 +54,6 @@
 
 ### React.js
 
-- <https://github.com/suimenkathemove/react-template>
 - <https://github.com/suimenkathemove/react-sandbox>
 
 ### Vue.js

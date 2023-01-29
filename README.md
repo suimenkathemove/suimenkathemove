@@ -18,6 +18,7 @@
 |            | <https://github.com/suimenkathemove/typescript-sandbox>     |
 | Frontend   | <https://github.com/suimenkathemove/frontend-modules>       |
 | React.js   | <https://github.com/suimenkathemove/react-sandbox>          |
+| Vue.js     | <https://github.com/suimenkathemove/trello-clone>           |
 | Monorepo   | <https://github.com/suimenkathemove/slack-clone>            |
 | Docker     | <https://github.com/suimenkathemove/docker-sandbox>         |
 | CI         | <https://github.com/suimenkathemove/github-actions-sandbox> |

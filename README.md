@@ -7,7 +7,7 @@
     - [Dotfiles](#dotfiles)
     - [Algorithm](#algorithm)
     - [Rust](#rust)
-      - [Axum](#axum)
+    - [Axum](#axum)
     - [TypeScript](#typescript)
     - [Frontend](#frontend)
     - [React.js](#reactjs)
@@ -38,7 +38,7 @@
 - <https://github.com/suimenkathemove/rust-sandbox>
 - <https://github.com/suimenkathemove/rust_sandbox>
 
-#### Axum
+### Axum
 
 - <https://github.com/suimenkathemove/axum_sandbox>
 

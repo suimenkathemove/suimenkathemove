@@ -11,7 +11,6 @@
     - [TypeScript](#typescript)
     - [Frontend](#frontend)
     - [React.js](#reactjs)
-    - [Vue.js](#vuejs)
     - [Monorepo](#monorepo)
     - [Docker](#docker)
     - [CI](#ci)
@@ -55,10 +54,6 @@
 ### React.js
 
 - <https://github.com/suimenkathemove/react-sandbox>
-
-### Vue.js
-
-- <https://github.com/suimenkathemove/trello-clone>
 
 ### Monorepo
 

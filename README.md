@@ -11,6 +11,7 @@
 | Articles   | <https://github.com/suimenkathemove/articles>               |
 | Dotfiles   | <https://github.com/suimenkathemove/dotfiles>               |
 | Algorithm  | <https://github.com/suimenkathemove/atcoder_rust>           |
+| SQL        | <https://github.com/suimenkathemove/sql-sandbox>            |
 | Rust       | <https://github.com/suimenkathemove/rust-sandbox>           |
 |            | <https://github.com/suimenkathemove/rust_sandbox>           |
 | Axum       | <https://github.com/suimenkathemove/axum_sandbox>           |

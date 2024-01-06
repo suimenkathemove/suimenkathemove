@@ -16,9 +16,7 @@
 | Rust       | <https://github.com/suimenkathemove/rust-sandbox>           |
 |            | <https://github.com/suimenkathemove/rust_sandbox>           |
 | Axum       | <https://github.com/suimenkathemove/axum_sandbox>           |
-| TypeScript | <https://github.com/suimenkathemove/typescript-packages>    |
-|            | <https://github.com/suimenkathemove/typescript-sandbox>     |
-| Frontend   | <https://github.com/suimenkathemove/frontend-packages>      |
+| TypeScript | <https://github.com/suimenkathemove/typescript-sandbox>     |
 | React.js   | <https://github.com/suimenkathemove/react-sandbox>          |
 | Monorepo   | <https://github.com/suimenkathemove/monorepo-sandbox>       |
 | Docker     | <https://github.com/suimenkathemove/docker-sandbox>         |

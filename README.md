@@ -7,7 +7,6 @@
 
 | type       | links                                                       |
 | ---------- | ----------------------------------------------------------- |
-| Resume     | <https://github.com/suimenkathemove/resume>                 |
 | Articles   | <https://github.com/suimenkathemove/articles>               |
 |            | <https://github.com/suimenkathemove/zenn-content>           |
 | Dotfiles   | <https://github.com/suimenkathemove/dotfiles>               |

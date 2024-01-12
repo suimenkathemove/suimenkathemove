@@ -7,7 +7,7 @@
 
 | type       | links                                                       |
 | ---------- | ----------------------------------------------------------- |
-| Articles   | <https://github.com/suimenkathemove/articles>               |
+| Articles   | <https://github.com/suimenkathemove/memos>                  |
 |            | <https://github.com/suimenkathemove/zenn-content>           |
 | Dotfiles   | <https://github.com/suimenkathemove/dotfiles>               |
 | Algorithm  | <https://github.com/suimenkathemove/atcoder_rust>           |

@@ -14,7 +14,6 @@
 | SQL        | <https://github.com/suimenkathemove/sql-sandbox>            |
 | Rust       | <https://github.com/suimenkathemove/rust-sandbox>           |
 |            | <https://github.com/suimenkathemove/rust_sandbox>           |
-| Axum       | <https://github.com/suimenkathemove/axum_sandbox>           |
 | TypeScript | <https://github.com/suimenkathemove/typescript-sandbox>     |
 | React.js   | <https://github.com/suimenkathemove/react-sandbox>          |
 | Python     | <https://github.com/suimenkathemove/python_sandbox>         |

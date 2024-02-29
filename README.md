@@ -22,3 +22,4 @@
 | Docker     | <https://github.com/suimenkathemove/docker-sandbox>             |
 | CI         | <https://github.com/suimenkathemove/github-actions-sandbox>     |
 |            | <https://github.com/suimenkathemove/pnpm-cache-action>          |
+| AWS        | <https://github.com/suimenkathemove/aws-sandbox>                |

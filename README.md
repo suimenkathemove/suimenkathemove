@@ -17,6 +17,7 @@
 | TypeScript | <https://github.com/suimenkathemove/typescript-sandbox>         |
 | React.js   | <https://github.com/suimenkathemove/react-sandbox>              |
 |            | <https://github.com/suimenkathemove/react-notion-sortable-tree> |
+|            | <https://github.com/suimenkathemove/react-select-rectangle>     |
 | Python     | <https://github.com/suimenkathemove/python_sandbox>             |
 | Monorepo   | <https://github.com/suimenkathemove/monorepo-sandbox>           |
 | Docker     | <https://github.com/suimenkathemove/docker-sandbox>             |

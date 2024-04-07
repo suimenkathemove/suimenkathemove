@@ -19,7 +19,7 @@
 |            | <https://github.com/suimenkathemove/react-notion-sortable-tree> |
 |            | <https://github.com/suimenkathemove/react-select-rectangle>     |
 | Python     | <https://github.com/suimenkathemove/python_sandbox>             |
-| Monorepo   | <https://github.com/suimenkathemove/monorepo-sandbox>           |
+| Monorepo   | <https://github.com/suimenkathemove/notion-clone>               |
 | Docker     | <https://github.com/suimenkathemove/docker-sandbox>             |
 | CI         | <https://github.com/suimenkathemove/github-actions-sandbox>     |
 |            | <https://github.com/suimenkathemove/pnpm-cache-action>          |

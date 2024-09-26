@@ -12,6 +12,7 @@
 | Dotfiles   | <https://github.com/suimenkathemove/dotfiles>                   |
 | Algorithm  | <https://github.com/suimenkathemove/atcoder_rust>               |
 | SQL        | <https://github.com/suimenkathemove/sql-sandbox>                |
+| Go         | <https://github.com/suimenkathemove/go-sandbox>                 |
 | Rust       | <https://github.com/suimenkathemove/rust-sandbox>               |
 |            | <https://github.com/suimenkathemove/rust_sandbox>               |
 | TypeScript | <https://github.com/suimenkathemove/typescript-sandbox>         |
